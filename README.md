@@ -65,7 +65,6 @@ Un proyecto donde apliqué patrones de diseño clásicos con una implementación
 ## Un poco más de mi perfil
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=LucasTabacchi&show_icons=true&theme=onedark&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasTabacchi&layout=compact&theme=onedark&hide_border=true" />
+  <img height="165" src="https://streak-stats.demolab.com?user=LucasTabacchi&theme=tokyonight&hide_border=true" />
 </p>
 
