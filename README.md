@@ -1,63 +1,70 @@
-<h1 align="center">Lucas Tabacchi</h1>
+<h1 align="center">Hola, soy Lucas Tabacchi</h1>
+<h3 align="center">Construyo productos web, ecommerce y herramientas para developers</h3>
 
 <p align="center">
-  Fullstack Developer building web products, dev tools and backend systems
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="430" alt="Builder gif" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  Me gusta transformar ideas en productos funcionales: desde la interfaz y la experiencia de usuario, hasta el backend, las integraciones y el despliegue.
+</p>
+
+<p align="center">
+  <a href="https://github.com/LucasTabacchi"><img src="https://img.shields.io/badge/GitHub-Perfil-181717?style=flat-square&logo=github" /></a>
+  <a href="https://www.linkedin.com/in/lucas-tabacchi-ab74551a5/"><img src="https://img.shields.io/badge/LinkedIn-Perfil-0A66C2?style=flat-square&logo=linkedin" /></a>
 </p>
 
 ---
 
-## About me
+## Qué hago
 
-I build fullstack applications with a strong focus on:
-- real product development
-- clean backend architecture
-- automations and developer tooling
-- integrations with external platforms
-- practical systems design
-
-My work combines **frontend experience**, **business logic**, **APIs**, **infrastructure**, and **delivery**.
+- desarrollo aplicaciones fullstack con foco en producto
+- diseño experiencias web con Next.js, React y TypeScript
+- construyo backend con Python, Django y Strapi
+- integro pagos, emails, CMS, bases de datos y automatizaciones
+- exploro arquitectura, Docker, DX y sistemas distribuidos
 
 ---
 
-## What I build
+## Proyectos que muestran mi perfil
 
-### Developer tools
-- [AutoDocker](https://github.com/LucasTabacchi/autodocker)  
-  An app that analyzes source projects, detects the tech stack and generates editable Docker artifacts ready for validation, export and pull requests.
+### [AutoDocker](https://github.com/LucasTabacchi/autodocker)
+Una herramienta para developers que analiza proyectos y ayuda a dockerizarlos más rápido, generando artefactos editables y validables.
 
-### Productive fullstack apps
-- [ProjectFlow](https://github.com/LucasTabacchi/project-flow)  
-  A collaborative project management platform with boards, automations, recurring tasks, reporting and team workflows.
+### [ProjectFlow](https://github.com/LucasTabacchi/project-flow)
+Una plataforma de gestión de proyectos donde combiné producto, colaboración, automatizaciones y reporting.
 
-### Real-world ecommerce
-- [Amargo y Dulce](https://github.com/LucasTabacchi/frontend-ecommerce-amargo-y-dulce)  
-  A full ecommerce experience with catalog, checkout, Mercado Pago payments, promotions, invoices and transactional emails.
+### [Amargo y Dulce](https://github.com/LucasTabacchi/frontend-ecommerce-amargo-y-dulce)
+Un ecommerce orientado a una experiencia de compra completa, con catálogo, checkout, Mercado Pago, promociones y facturación.
 
-### Event-driven systems
-- [banking-events-kafka-nextjs](https://github.com/LucasTabacchi/banking-events-kafka-nextjs)  
-  A distributed architecture exercise using Kafka, multiple services and a web frontend.
+### [banking-events-kafka-nextjs](https://github.com/LucasTabacchi/banking-events-kafka-nextjs)
+Un proyecto para trabajar mensajería, eventos y arquitectura distribuida con Kafka.
 
-### Software engineering fundamentals
-- [IS2_TPFI](https://github.com/LucasTabacchi/IS2_TPFI)  
-  Python project applying Proxy, Singleton and Observer patterns with tests and pluggable persistence.
+### [IS2_TPFI](https://github.com/LucasTabacchi/IS2_TPFI)
+Un proyecto donde apliqué patrones de diseño clásicos con una implementación práctica en Python.
 
 ---
 
-## Main stack
+## Tecnologías con las que más trabajo
 
-```txt
-Frontend:   Next.js • React • TypeScript • Tailwind CSS
-Backend:    Python • Django • Strapi • Node.js
-Data:       PostgreSQL • Prisma • Redis
-Infra:      Docker • GitHub Actions • Supabase
-Payments:   Mercado Pago
-Messaging:  Brevo
+<p>
+  <img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,python,django,nodejs,postgres,docker,redis,git,github" />
+</p>
+
+---
+
+## En lo que estoy enfocado ahora
+
+- construir productos más sólidos end-to-end
+- mejorar arquitectura y mantenibilidad
+- crear herramientas útiles para developers
+- seguir creciendo entre producto, backend e infraestructura
+
+---
+
+## Un poco más de mi perfil
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=LucasTabacchi&show_icons=true&theme=calm&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasTabacchi&layout=compact&theme=calm&hide_border=true" />
+</p>
