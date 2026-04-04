@@ -1,5 +1,5 @@
 <h1 align="center">Hola, soy Lucas Tabacchi</h1>
-<h3 align="center">Construyo productos web, ecommerce y herramientas para developers</h3>
+<h3 align="center">Fullstack Developer enfocado en construir productos web, automatización y backend con impacto real</h3>
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="430" alt="Builder gif" />
@@ -65,6 +65,7 @@ Un proyecto donde apliqué patrones de diseño clásicos con una implementación
 ## Un poco más de mi perfil
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=LucasTabacchi&show_icons=true&theme=calm&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasTabacchi&layout=compact&theme=calm&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=LucasTabacchi&show_icons=true&theme=onedark&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasTabacchi&layout=compact&theme=onedark&hide_border=true" />
 </p>
+
