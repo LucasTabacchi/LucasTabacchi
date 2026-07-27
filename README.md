@@ -1,5 +1,5 @@
 <h1 align="center">Hola, soy Lucas Tabacchi</h1>
-<h3 align="center">Fullstack Developer enfocado en construir productos web, automatización y backend con impacto real</h3>
+<h3 align="center">Fullstack Developer</h3>
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="430" alt="Builder gif" />
