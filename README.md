@@ -1,5 +1,5 @@
 <h1 align="center">Hola, soy Lucas Tabacchi</h1>
-<h3 align="center">Fullstack Developer</h3>
+<h3 align="center">Analista en Sistemas de Información</h3>
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="430" alt="Builder gif" />
@@ -57,7 +57,6 @@ Un proyecto donde apliqué patrones de diseño clásicos con una implementación
 
 - construir productos más sólidos end-to-end
 - mejorar arquitectura y mantenibilidad
-- crear herramientas útiles para developers
 - seguir creciendo entre producto, backend e infraestructura
 
 ---
