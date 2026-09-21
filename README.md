@@ -22,7 +22,7 @@ Me interesa construir soluciones end-to-end con especial atención a la **arquit
 
 - ⚙️ **Backend e infraestructura:** APIs, bases de datos, Docker, integraciones y automatizaciones.
 - 📱 **Web & Mobile:** Desarrollo aplicaciones web end-to-end con **Next.js, React y TypeScript**, integrando interfaces, backend, autenticación, pagos, CMS, emails y bases de datos. En mobile, construyo aplicaciones multiplataforma con **React Native (Expo)**, navegación tipada, autenticación, mapas, telemetría en tiempo real y soporte offline, integradas con **Supabase, Node.js y arquitecturas orientadas a eventos**.
-- 🧩 **En exploración constante:** developer experience, sistemas distribuidos y herramientas que simplifican el trabajo de desarrollo.
+- 🧩 **En exploración constante:** arquitectura de software, sistemas distribuidos, developer experience y prácticas que mejoran la mantenibilidad y escalabilidad de los productos.
 
 ---
 
