@@ -16,13 +16,13 @@
 
 ## Sobre mí
 
-Soy **Systems Analyst** y me enfoco en transformar ideas en productos digitales funcionales, cuidando todo el recorrido: experiencia de usuario, backend, integraciones y despliegue.
+Soy **Analista en Sistemas de Información** (UADER) y actualmente cursando el 4to año de la Licenciatura en Sistemas de Información.
 
-Me interesa construir soluciones end-to-end con especial atención a la **arquitectura**, la **automatización** y una base técnica mantenible.
+Me interesa construir soluciones end-to-end con especial atención a la **arquitectura** y una base técnica mantenible.
 
 - ⚙️ **Backend e infraestructura:** APIs, bases de datos, Docker, integraciones y automatizaciones.
 - 📱 **Web & Mobile:** Desarrollo aplicaciones web end-to-end con **Next.js, React y TypeScript**, integrando interfaces, backend, autenticación, pagos, CMS, emails y bases de datos. En mobile, construyo aplicaciones multiplataforma con **React Native (Expo)**, navegación tipada, autenticación, mapas, telemetría en tiempo real y soporte offline, integradas con **Supabase, Node.js y arquitecturas orientadas a eventos**.
-- 🧩 **En exploración constante:** arquitectura de software, sistemas distribuidos, developer experience y prácticas que mejoran la mantenibilidad y escalabilidad de los productos.
+- 🧩 **En exploración constante:** arquitectura de software, sistemas distribuidos y prácticas que mejoran la mantenibilidad y escalabilidad de los productos.
 
 ---
 
@@ -97,17 +97,7 @@ Me interesa construir soluciones end-to-end con especial atención a la **arquit
       </td>
     </tr>
     <tr>
-      <td width="50%" valign="top">
-        <p><a href="https://github.com/LucasTabacchi/IS2_TPFI"><strong>🧩 IS2_TPFI</strong></a></p>
-        <p><strong>Servidor TCP en Python para aplicar patrones de diseño sobre un caso funcional y testeable.</strong></p>
-        <ul>
-          <li>Implementa un servidor con los patrones Proxy, Singleton y Observer, junto con clientes de suscripción.</li>
-          <li>Expone operaciones <code>get</code>, <code>set</code> y <code>list</code> con persistencia intercambiable entre mock JSON y AWS DynamoDB.</li>
-          <li>Define framing JSON de 4 bytes y cobertura automatizada con pytest.</li>
-        </ul>
-        <p><code>Python</code> · <code>TCP Sockets</code> · <code>Design Patterns</code> · <code>AWS DynamoDB</code> · <code>pytest</code> · <code>JSON</code></p>
-      </td>
-      <td width="50%" valign="top">
+      <td colspan="2" valign="top">
         <p><a href="https://github.com/LucasTabacchi/Desarrollo-y-Arquitectura-en-aplicaciones-m-viles---2026/tree/main/tp_5"><strong>📶 Network QoS Monitor</strong></a></p>
         <p><strong>Monitor móvil de calidad de red en tiempo real y mapa personal de cobertura.</strong></p>
         <ul>
