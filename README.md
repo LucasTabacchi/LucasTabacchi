@@ -1,6 +1,3 @@
-<h1 align="center">Hola, soy Lucas Tabacchi</h1>
-<h3 align="center">Systems Analyst</h3>
-
 <p align="center">
   <img src="assets/hero-systems-analyst.png" width="100%" alt="Lucas Tabacchi — Systems Analyst" />
 </p>
