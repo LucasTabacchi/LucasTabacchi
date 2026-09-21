@@ -1,8 +1,8 @@
 <h1 align="center">Hola, soy Lucas Tabacchi</h1>
-<h3 align="center">Analista en Sistemas de Información</h3>
+<h3 align="center">Systems Analyst</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="430" alt="Builder gif" />
+  <img src="assets/hero-systems-analyst.png" width="100%" alt="Lucas Tabacchi — Systems Analyst" />
 </p>
 
 <p align="center">
