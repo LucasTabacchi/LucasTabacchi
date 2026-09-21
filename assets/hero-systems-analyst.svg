@@ -103,13 +103,8 @@
   <!-- Hero Name -->
   <text x="48" y="145" class="font-sans" font-size="52" font-weight="800" fill="url(#nameGradient)" letter-spacing="-1">Lucas Tabacchi</text>
 
-  <!-- Role and Degree Badge -->
-  <g transform="translate(48, 172)">
-    <text x="0" y="0" class="font-mono" font-size="18" font-weight="600" fill="#38bdf8">Analista en Sistemas de Información</text>
-    <!-- Tag UADER -->
-    <rect x="360" y="-16" width="168" height="23" rx="5" fill="#334155" fill-opacity="0.45" stroke="#64748b" stroke-opacity="0.4" stroke-width="1"/>
-    <text x="372" y="0" class="font-mono" font-size="12" fill="#e2e8f0" font-weight="500">UADER · 4to año Lic.</text>
-  </g>
+  <!-- Role -->
+  <text x="48" y="172" class="font-mono" font-size="18" font-weight="600" fill="#38bdf8">Analista en Sistemas de Información</text>
 
   <!-- Subtitle & Value Proposition -->
   <g class="font-sans" font-size="14.5" fill="#94a3b8" transform="translate(48, 216)">
