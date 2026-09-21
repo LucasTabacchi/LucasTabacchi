@@ -210,5 +210,5 @@ Me interesa construir soluciones end-to-end con especial atención a la **arquit
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LucasTabacchi&amp;theme=github_dark&amp;name=Lucas%20Tabacchi" width="690" alt="Gráfico de contribuciones de Lucas Tabacchi durante el último año" />
+  <img src="assets/profile-activity.svg" width="690" alt="Gráfico de contribuciones de Lucas Tabacchi durante el último año" />
 </p>
