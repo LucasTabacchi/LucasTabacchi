@@ -131,9 +131,12 @@ Me interesa construir soluciones end-to-end con especial atención a la **arquit
 
 ---
 
-## Un poco más de mi perfil
+## Métricas de GitHub & Actividad
 
 <p align="center">
-  <img height="165" src="https://streak-stats.demolab.com?user=LucasTabacchi&theme=tokyonight&hide_border=true" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=LucasTabacchi&amp;theme=github_dark" alt="Métricas de GitHub de Lucas Tabacchi" />
 </p>
 
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LucasTabacchi&amp;theme=github_dark" alt="Gráfico de contribuciones de Lucas Tabacchi durante el último año" />
+</p>
