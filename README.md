@@ -14,6 +14,16 @@
   <a href="https://www.linkedin.com/in/lucas-tabacchi-ab74551a5/"><img src="https://img.shields.io/badge/LinkedIn-Perfil-0A66C2?style=flat-square&logo=linkedin" /></a>
 </p>
 
+## Sobre mí
+
+Soy **Systems Analyst** y me enfoco en transformar ideas en productos digitales funcionales, cuidando todo el recorrido: experiencia de usuario, backend, integraciones y despliegue.
+
+Me interesa construir soluciones end-to-end con especial atención a la **arquitectura**, la **automatización** y una base técnica mantenible.
+
+- ⚙️ **Backend e infraestructura:** APIs, bases de datos, Docker, integraciones y automatizaciones.
+- 🖥️ **Web y producto:** experiencias con Next.js, React y TypeScript.
+- 🧩 **En exploración constante:** developer experience, sistemas distribuidos y herramientas que simplifican el trabajo de desarrollo.
+
 ---
 
 ## Qué hago
