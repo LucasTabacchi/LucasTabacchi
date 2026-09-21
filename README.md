@@ -11,6 +11,8 @@
   <a href="https://www.linkedin.com/in/lucas-tabacchi-ab74551a5/"><img src="https://img.shields.io/badge/LinkedIn-Perfil-0A66C2?style=flat-square&logo=linkedin" /></a>
 </p>
 
+---
+
 ## Sobre mí
 
 Soy **Analista en Sistemas de Información** (UADER) y actualmente cursando el 4to año de la Licenciatura en Sistemas de Información.
