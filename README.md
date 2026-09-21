@@ -21,7 +21,7 @@ Soy **Systems Analyst** y me enfoco en transformar ideas en productos digitales 
 Me interesa construir soluciones end-to-end con especial atención a la **arquitectura**, la **automatización** y una base técnica mantenible.
 
 - ⚙️ **Backend e infraestructura:** APIs, bases de datos, Docker, integraciones y automatizaciones.
-- 📱 **Web & Mobile:** Desarrollo de aplicaciones web con **Next.js, React y TypeScript**, y experiencias móviles multiplataforma con **React Native (Expo)**, integradas con **Supabase y Node.js**; incluyo mapas, telemetría en tiempo real, operaciones offline y arquitecturas orientadas a eventos.
+- 📱 **Web & Mobile:** Desarrollo aplicaciones web end-to-end con **Next.js, React y TypeScript**, integrando interfaces, backend, autenticación, pagos, CMS, emails y bases de datos. En mobile, construyo aplicaciones multiplataforma con **React Native (Expo)**, navegación tipada, autenticación, mapas, telemetría en tiempo real y soporte offline, integradas con **Supabase, Node.js y arquitecturas orientadas a eventos**.
 - 🧩 **En exploración constante:** developer experience, sistemas distribuidos y herramientas que simplifican el trabajo de desarrollo.
 
 ---
