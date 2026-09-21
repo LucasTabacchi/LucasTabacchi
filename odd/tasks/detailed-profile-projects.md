@@ -4,7 +4,7 @@
 Showcase evidence-based projects and a categorized technology stack in the GitHub-profile README.
 
 ## Scope
-- Preserve the eight detailed project cards.
+- Preserve the project cards currently present in the README.
 - Replace the flat technology icon list with a categorized stack based on the user's public repositories.
 
 ## Constraints
@@ -23,7 +23,13 @@ Showcase evidence-based projects and a categorized technology stack in the GitHu
   - Acceptance: visible categories separate languages/web, backend/APIs, mobile, data/cloud, infrastructure/events and quality/UI; all claims are supported by public repositories.
   - Checks: Markdown structure inspection; `git diff --check`.
 
+- [x] P4 — Render existing project cards in a two-column GitHub-native table layout. Evidence: pending commit.
+  - Route: delegated direct.
+  - Trigger evidence: layout conversion touches the README and feature task document; raw HTML compatibility was researched.
+  - Acceptance: project content and links are preserved in bordered two-column cards, with a full-width final card when needed.
+  - Checks: Markdown/HTML structure inspection; `git diff --check`.
 ## Progress
 - P1/P2 complete.
 - P3 complete: categorized direct-use technologies across languages/web, backend/APIs, mobile, data/cloud, infrastructure/events, quality/UI/DX and data/IA. Markdown inspection and `git diff --check` passed. Evidence: `feat(readme): categorize technology stack`.
+- P4 complete: converted the seven current project cards into a GitHub-native raw HTML table with three two-column rows and one full-width final row. Markdown/HTML structure inspection and `git diff --check` passed. Evidence: pending commit.
 - Next: none.

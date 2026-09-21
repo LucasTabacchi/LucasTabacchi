@@ -28,92 +28,98 @@ Me interesa construir soluciones end-to-end con especial atención a la **arquit
 
 ## Proyectos que muestran mi perfil
 
-### 🤖 [AutoDocker](https://github.com/LucasTabacchi/autodocker)
-**Dockerización asistida para convertir repositorios en entornos ejecutables y editables.**
-
-- Analiza proyectos ZIP o Git y detecta stacks Node, Python, PHP, Java, Go y Ruby, incluso monorepos.
-- Genera `Dockerfile`, `.dockerignore`, `docker-compose`, documentación y bootstrap de CI que se pueden editar.
-- Valida builds, permite previsualizar resultados y abrir pull requests desde el flujo de trabajo.
-
-`Python` · `Django` · `DRF` · `Celery` · `Redis` · `PostgreSQL` · `Docker` · `GitHub Actions`
-
----
-
-### 📋 [ProjectFlow](https://github.com/LucasTabacchi/project-flow)
-**Gestión colaborativa de proyectos con visibilidad sobre el trabajo, sus dependencias y resultados.**
-
-- Organiza equipos con tableros, listas y tarjetas drag-and-drop, fechas límite, bloqueos y actividad.
-- Incluye automatizaciones, dependencias, campos personalizados, recurrencias y reportes de tiempo.
-- Centraliza invitaciones y notificaciones por email, además de exportaciones CSV y PDF.
-
-`Next.js` · `React` · `TypeScript` · `Prisma` · `PostgreSQL` · `Tailwind CSS` · `Zustand` · `Redis`
-
----
-
-### 🍫 [Amargo y Dulce](https://github.com/LucasTabacchi/frontend-ecommerce-amargo-y-dulce)
-**E-commerce de chocolates diseñado para cubrir el recorrido completo de compra.**
-
-- Ofrece catálogo, carrito, checkout, perfil, direcciones, pedidos, promociones, cupones y facturas.
-- Integra Mercado Pago y procesa actualizaciones de estado de pedidos mediante webhooks.
-- Consume Strapi mediante REST y GraphQL, y utiliza Brevo para emails transaccionales.
-
-`Next.js` · `React` · `TypeScript` · `Strapi` · `GraphQL` · `Mercado Pago` · `Tailwind CSS` · `Zustand`
-
----
-
-### 📨 [banking-events-kafka-nextjs](https://github.com/LucasTabacchi/banking-events-kafka-nextjs)
-**Exploración de flujos basados en eventos con servicios Node, Kafka y una interfaz web.**
-
-- Levanta Kafka y Kafka UI mediante Docker Compose para trabajar con brokers y topics configurables por entorno.
-- Separa las responsabilidades en servicios `api`, `orchestrator` y `gateway` construidos con Node.js.
-- Conecta una aplicación Next.js mediante URLs públicas de API y WebSockets.
-
-`Apache Kafka` · `Docker Compose` · `Node.js` · `Next.js` · `WebSockets`
-
----
-
-### 🧩 [IS2_TPFI](https://github.com/LucasTabacchi/IS2_TPFI)
-**Servidor TCP en Python para aplicar patrones de diseño sobre un caso funcional y testeable.**
-
-- Implementa un servidor con los patrones Proxy, Singleton y Observer, junto con clientes de suscripción.
-- Expone operaciones `get`, `set` y `list` con persistencia intercambiable entre mock JSON y AWS DynamoDB.
-- Define framing JSON de 4 bytes y cobertura automatizada con pytest.
-
-`Python` · `TCP Sockets` · `Design Patterns` · `AWS DynamoDB` · `pytest` · `JSON`
-
----
-
-## Tecnologías con las que más trabajo
-### ✈️ [Airports API](https://github.com/LucasTabacchi/BDD_NSQL_2026/tree/main/airports-api)
-**API y visor web para explorar 8.108 aeropuertos mediante búsquedas por cercanía y popularidad.**
-
-- Consulta datos de aeropuertos en MongoDB y realiza búsquedas de proximidad con Redis GEO y `GEOSEARCH`.
-- Ordena resultados por popularidad con Redis ZSET y una caché con TTL de un día.
-- Combina un backend Node/Express con un visor HTML basado en Leaflet y MarkerCluster, orquestado con Docker Compose.
-
-`Node.js` · `Express` · `MongoDB` · `Redis GEO` · `Leaflet` · `Docker`
-
----
-
-### 🏦 [iBank](https://github.com/LucasTabacchi/Desarrollo-y-Arquitectura-en-aplicaciones-m-viles---2026/tree/main/tp_3/ibank)
-**Flujo de autenticación móvil bancario con validaciones y recuperación de acceso segura.**
-
-- Implementa login con protección contra enumeración de cuentas y registro con reglas de contraseña en tiempo real y confirmación por email.
-- Gestiona restablecimiento de contraseña mediante enlaces profundos y sesiones persistentes con AsyncStorage.
-- Usa formularios tipados con React Hook Form y Zod, y navegación tipada con Expo Router.
-
-`React Native` · `Expo` · `TypeScript` · `Supabase Auth` · `Zod` · `Expo Router`
-
----
-
-### 📶 [Network QoS Monitor](https://github.com/LucasTabacchi/Desarrollo-y-Arquitectura-en-aplicaciones-m-viles---2026/tree/main/tp_5)
-**Monitor móvil de calidad de red en tiempo real y mapa personal de cobertura.**
-
-- Mide RTT y jitter mediante sondas TCP, junto con throughput de subida y bajada.
-- Guarda sesiones y muestras con GPS en SQLite, con exportación de datos en CSV y JSON.
-- Integra métricas de señal, RAT y operador con Kotlin TelephonyManager, un backend de benchmark Fastify y pruebas móviles y de integración.
-
-`React Native` · `TypeScript` · `Kotlin` · `SQLite` · `Fastify` · `Docker`
+<table>
+  <tbody>
+    <tr>
+      <td width="50%" valign="top">
+        <p><a href="https://github.com/LucasTabacchi/autodocker"><strong>🤖 AutoDocker</strong></a></p>
+        <p><strong>Dockerización asistida para convertir repositorios en entornos ejecutables y editables.</strong></p>
+        <ul>
+          <li>Analiza proyectos ZIP o Git y detecta stacks Node, Python, PHP, Java, Go y Ruby, incluso monorepos.</li>
+          <li>Genera <code>Dockerfile</code>, <code>.dockerignore</code>, <code>docker-compose</code>, documentación y bootstrap de CI que se pueden editar.</li>
+          <li>Valida builds, permite previsualizar resultados y abrir pull requests desde el flujo de trabajo.</li>
+        </ul>
+        <p><code>Python</code> · <code>Django</code> · <code>DRF</code> · <code>Celery</code> · <code>Redis</code> · <code>PostgreSQL</code> · <code>Docker</code> · <code>GitHub Actions</code></p>
+      </td>
+      <td width="50%" valign="top">
+        <p><a href="https://github.com/LucasTabacchi/project-flow"><strong>📋 ProjectFlow</strong></a></p>
+        <p><strong>Gestión colaborativa de proyectos con visibilidad sobre el trabajo, sus dependencias y resultados.</strong></p>
+        <ul>
+          <li>Organiza equipos con tableros, listas y tarjetas drag-and-drop, fechas límite, bloqueos y actividad.</li>
+          <li>Incluye automatizaciones, dependencias, campos personalizados, recurrencias y reportes de tiempo.</li>
+          <li>Centraliza invitaciones y notificaciones por email, además de exportaciones CSV y PDF.</li>
+        </ul>
+        <p><code>Next.js</code> · <code>React</code> · <code>TypeScript</code> · <code>Prisma</code> · <code>PostgreSQL</code> · <code>Tailwind CSS</code> · <code>Zustand</code> · <code>Redis</code></p>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%" valign="top">
+        <p><a href="https://github.com/LucasTabacchi/frontend-ecommerce-amargo-y-dulce"><strong>🍫 Amargo y Dulce</strong></a></p>
+        <p><strong>E-commerce de chocolates diseñado para cubrir el recorrido completo de compra.</strong></p>
+        <ul>
+          <li>Ofrece catálogo, carrito, checkout, perfil, direcciones, pedidos, promociones, cupones y facturas.</li>
+          <li>Integra Mercado Pago y procesa actualizaciones de estado de pedidos mediante webhooks.</li>
+          <li>Consume Strapi mediante REST y GraphQL, y utiliza Brevo para emails transaccionales.</li>
+        </ul>
+        <p><code>Next.js</code> · <code>React</code> · <code>TypeScript</code> · <code>Strapi</code> · <code>GraphQL</code> · <code>Mercado Pago</code> · <code>Tailwind CSS</code> · <code>Zustand</code></p>
+      </td>
+      <td width="50%" valign="top">
+        <p><a href="https://github.com/LucasTabacchi/banking-events-kafka-nextjs"><strong>📨 banking-events-kafka-nextjs</strong></a></p>
+        <p><strong>Exploración de flujos basados en eventos con servicios Node, Kafka y una interfaz web.</strong></p>
+        <ul>
+          <li>Levanta Kafka y Kafka UI mediante Docker Compose para trabajar con brokers y topics configurables por entorno.</li>
+          <li>Separa las responsabilidades en servicios <code>api</code>, <code>orchestrator</code> y <code>gateway</code> construidos con Node.js.</li>
+          <li>Conecta una aplicación Next.js mediante URLs públicas de API y WebSockets.</li>
+        </ul>
+        <p><code>Apache Kafka</code> · <code>Docker Compose</code> · <code>Node.js</code> · <code>Next.js</code> · <code>WebSockets</code></p>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%" valign="top">
+        <p><a href="https://github.com/LucasTabacchi/BDD_NSQL_2026/tree/main/airports-api"><strong>✈️ Airports API</strong></a></p>
+        <p><strong>API y visor web para explorar 8.108 aeropuertos mediante búsquedas por cercanía y popularidad.</strong></p>
+        <ul>
+          <li>Consulta datos de aeropuertos en MongoDB y realiza búsquedas de proximidad con Redis GEO y <code>GEOSEARCH</code>.</li>
+          <li>Ordena resultados por popularidad con Redis ZSET y una caché con TTL de un día.</li>
+          <li>Combina un backend Node/Express con un visor HTML basado en Leaflet y MarkerCluster, orquestado con Docker Compose.</li>
+        </ul>
+        <p><code>Node.js</code> · <code>Express</code> · <code>MongoDB</code> · <code>Redis GEO</code> · <code>Leaflet</code> · <code>Docker</code></p>
+      </td>
+      <td width="50%" valign="top">
+        <p><a href="https://github.com/LucasTabacchi/Desarrollo-y-Arquitectura-en-aplicaciones-m-viles---2026/tree/main/tp_3/ibank"><strong>🏦 iBank</strong></a></p>
+        <p><strong>Flujo de autenticación móvil bancario con validaciones y recuperación de acceso segura.</strong></p>
+        <ul>
+          <li>Implementa login con protección contra enumeración de cuentas y registro con reglas de contraseña en tiempo real y confirmación por email.</li>
+          <li>Gestiona restablecimiento de contraseña mediante enlaces profundos y sesiones persistentes con AsyncStorage.</li>
+          <li>Usa formularios tipados con React Hook Form y Zod, y navegación tipada con Expo Router.</li>
+        </ul>
+        <p><code>React Native</code> · <code>Expo</code> · <code>TypeScript</code> · <code>Supabase Auth</code> · <code>Zod</code> · <code>Expo Router</code></p>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%" valign="top">
+        <p><a href="https://github.com/LucasTabacchi/IS2_TPFI"><strong>🧩 IS2_TPFI</strong></a></p>
+        <p><strong>Servidor TCP en Python para aplicar patrones de diseño sobre un caso funcional y testeable.</strong></p>
+        <ul>
+          <li>Implementa un servidor con los patrones Proxy, Singleton y Observer, junto con clientes de suscripción.</li>
+          <li>Expone operaciones <code>get</code>, <code>set</code> y <code>list</code> con persistencia intercambiable entre mock JSON y AWS DynamoDB.</li>
+          <li>Define framing JSON de 4 bytes y cobertura automatizada con pytest.</li>
+        </ul>
+        <p><code>Python</code> · <code>TCP Sockets</code> · <code>Design Patterns</code> · <code>AWS DynamoDB</code> · <code>pytest</code> · <code>JSON</code></p>
+      </td>
+      <td width="50%" valign="top">
+        <p><a href="https://github.com/LucasTabacchi/Desarrollo-y-Arquitectura-en-aplicaciones-m-viles---2026/tree/main/tp_5"><strong>📶 Network QoS Monitor</strong></a></p>
+        <p><strong>Monitor móvil de calidad de red en tiempo real y mapa personal de cobertura.</strong></p>
+        <ul>
+          <li>Mide RTT y jitter mediante sondas TCP, junto con throughput de subida y bajada.</li>
+          <li>Guarda sesiones y muestras con GPS en SQLite, con exportación de datos en CSV y JSON.</li>
+          <li>Integra métricas de señal, RAT y operador con Kotlin TelephonyManager, un backend de benchmark Fastify y pruebas móviles y de integración.</li>
+        </ul>
+        <p><code>React Native</code> · <code>TypeScript</code> · <code>Kotlin</code> · <code>SQLite</code> · <code>Fastify</code> · <code>Docker</code></p>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 ---
 
