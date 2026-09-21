@@ -26,16 +26,6 @@ Me interesa construir soluciones end-to-end con especial atención a la **arquit
 
 ---
 
-## Qué hago
-
-- desarrollo aplicaciones fullstack
-- diseño experiencias web con Next.js, React y TypeScript
-- construyo backend con Python, Django y Strapi
-- integro pagos, emails, CMS, bases de datos y automatizaciones
-- exploro arquitectura, Docker, DX y sistemas distribuidos
-
----
-
 ## Proyectos que muestran mi perfil
 
 ### [AutoDocker](https://github.com/LucasTabacchi/autodocker)
