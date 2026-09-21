@@ -210,5 +210,5 @@ Me interesa construir soluciones end-to-end con especial atención a la **arquit
 </p>
 
 <p align="center">
-  <img src="assets/profile-activity.svg" width="625" alt="Gráfico de contribuciones de Lucas Tabacchi durante el último año" />
+  <img src="assets/profile-activity.svg" width="670" alt="Gráfico de contribuciones de Lucas Tabacchi durante el último año" />
 </p>
