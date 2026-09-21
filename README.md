@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/hero-systems-analyst.png" width="100%" alt="Lucas Tabacchi — Systems Analyst" />
+  <img src="assets/hero-systems-analyst.svg" width="100%" alt="Lucas Tabacchi — Systems Analyst" />
 </p>
 
 <p align="center">
@@ -11,7 +11,7 @@
   <a href="https://www.linkedin.com/in/lucas-tabacchi-ab74551a5/"><img src="https://img.shields.io/badge/LinkedIn-Perfil-0A66C2?style=flat-square&logo=linkedin" /></a>
 </p>
 
-## Sobre mí
+## 👨‍💻 Sobre mí
 
 Soy **Analista en Sistemas de Información** (UADER) y actualmente cursando el 4to año de la Licenciatura en Sistemas de Información.
 
@@ -23,86 +23,122 @@ Me interesa construir soluciones end-to-end con especial atención a la **arquit
 
 ---
 
-## Proyectos que muestran mi perfil
+## 🚀 Proyectos que muestran mi perfil
 
 <table>
   <tbody>
     <tr>
       <td width="50%" valign="top">
-        <p><a href="https://github.com/LucasTabacchi/autodocker"><strong>🤖 AutoDocker</strong></a></p>
+        <h3><a href="https://github.com/LucasTabacchi/autodocker">🤖 AutoDocker — Dockerización Asistida</a></h3>
         <p><strong>Dockerización asistida para convertir repositorios en entornos ejecutables y editables.</strong></p>
         <ul>
-          <li>Analiza proyectos ZIP o Git y detecta stacks Node, Python, PHP, Java, Go y Ruby, incluso monorepos.</li>
-          <li>Genera <code>Dockerfile</code>, <code>.dockerignore</code>, <code>docker-compose</code>, documentación y bootstrap de CI que se pueden editar.</li>
+          <li>Analiza repositorios y detecta stacks <strong>Node</strong>, <strong>Python</strong>, <strong>PHP</strong>, <strong>Java</strong>, <strong>Go</strong> y <strong>Ruby</strong>, incluso monorepos.</li>
+          <li>Genera <strong>Dockerfile</strong>, <strong>.dockerignore</strong>, <strong>docker-compose</strong>, documentación y bootstrap de CI editables.</li>
           <li>Valida builds, permite previsualizar resultados y abrir pull requests desde el flujo de trabajo.</li>
         </ul>
-        <p><code>Python</code> · <code>Django</code> · <code>DRF</code> · <code>Celery</code> · <code>Redis</code> · <code>PostgreSQL</code> · <code>Docker</code> · <code>GitHub Actions</code></p>
+        <p>
+          <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+          <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" alt="Django" />
+          <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+          <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+        </p>
       </td>
       <td width="50%" valign="top">
-        <p><a href="https://github.com/LucasTabacchi/project-flow"><strong>📋 ProjectFlow</strong></a></p>
-        <p><strong>Gestión colaborativa de proyectos con visibilidad sobre el trabajo, sus dependencias y resultados.</strong></p>
+        <h3><a href="https://github.com/LucasTabacchi/project-flow">📋 ProjectFlow — Gestión Colaborativa</a></h3>
+        <p><strong>Gestión colaborativa de proyectos con visibilidad sobre el trabajo, dependencias y resultados.</strong></p>
         <ul>
-          <li>Organiza equipos con tableros, listas y tarjetas drag-and-drop, fechas límite, bloqueos y actividad.</li>
-          <li>Incluye automatizaciones, dependencias, campos personalizados, recurrencias y reportes de tiempo.</li>
-          <li>Centraliza invitaciones y notificaciones por email, además de exportaciones CSV y PDF.</li>
+          <li>Organiza equipos con tableros Kanban drag-and-drop, listas de tareas, fechas límite, bloqueos y actividad.</li>
+          <li>Incluye automatizaciones, dependencias entre tareas, campos personalizados, recurrencias y reportes de tiempo.</li>
+          <li>Centraliza invitaciones y notificaciones por email, además de exportaciones en <strong>CSV</strong> y <strong>PDF</strong>.</li>
         </ul>
-        <p><code>Next.js</code> · <code>React</code> · <code>TypeScript</code> · <code>Prisma</code> · <code>PostgreSQL</code> · <code>Tailwind CSS</code> · <code>Zustand</code> · <code>Redis</code></p>
+        <p>
+          <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" alt="Next.js" />
+          <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+          <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+          <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+        </p>
       </td>
     </tr>
     <tr>
       <td width="50%" valign="top">
-        <p><a href="https://github.com/LucasTabacchi/frontend-ecommerce-amargo-y-dulce"><strong>🍫 Amargo y Dulce</strong></a></p>
-        <p><strong>E-commerce de chocolates diseñado para cubrir el recorrido completo de compra.</strong></p>
+        <h3><a href="https://github.com/LucasTabacchi/frontend-ecommerce-amargo-y-dulce">🍫 Amargo y Dulce — E-Commerce & Gestión</a></h3>
+        <p><strong>Plataforma e-commerce integral diseñada para cubrir el recorrido completo de compra y gestión.</strong></p>
         <ul>
-          <li>Ofrece catálogo, carrito, checkout, perfil, direcciones, pedidos, promociones, cupones y facturas.</li>
-          <li>Integra Mercado Pago y procesa actualizaciones de estado de pedidos mediante webhooks.</li>
-          <li>Consume Strapi mediante REST y GraphQL, y utiliza Brevo para emails transaccionales.</li>
+          <li>Control de inventario, catálogo interactivo, carrito de compras, perfil de usuario, direcciones, pedidos y promociones.</li>
+          <li>Integra <strong>Mercado Pago</strong> y procesa actualizaciones de estado de pedidos mediante <strong>webhooks</strong>.</li>
+          <li>Consume <strong>Strapi</strong> mediante REST y <strong>GraphQL</strong>, y utiliza <strong>Brevo</strong> para emails transaccionales.</li>
         </ul>
-        <p><code>Next.js</code> · <code>React</code> · <code>TypeScript</code> · <code>Strapi</code> · <code>GraphQL</code> · <code>Mercado Pago</code> · <code>Tailwind CSS</code> · <code>Zustand</code></p>
+        <p>
+          <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" alt="Next.js" />
+          <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+          <img src="https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" alt="GraphQL" />
+          <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+        </p>
       </td>
       <td width="50%" valign="top">
-        <p><a href="https://github.com/LucasTabacchi/banking-events-kafka-nextjs"><strong>📨 banking-events-kafka-nextjs</strong></a></p>
-        <p><strong>Exploración de flujos basados en eventos con servicios Node, Kafka y una interfaz web.</strong></p>
+        <h3><a href="https://github.com/LucasTabacchi/banking-events-kafka-nextjs">💳 Docker Banking Microservices</a></h3>
+        <p><strong>Arquitectura orientada a eventos con procesamiento asíncrono de transacciones bancarias.</strong></p>
         <ul>
-          <li>Levanta Kafka y Kafka UI mediante Docker Compose para trabajar con brokers y topics configurables por entorno.</li>
-          <li>Separa las responsabilidades en servicios <code>api</code>, <code>orchestrator</code> y <code>gateway</code> construidos con Node.js.</li>
-          <li>Conecta una aplicación Next.js mediante URLs públicas de API y WebSockets.</li>
+          <li>Microservicios desacoplados y contenerizados con <strong>Docker</strong> y <strong>Docker Compose</strong>.</li>
+          <li>Mensajería asíncrona y transmisión de eventos en tiempo real mediante <strong>Apache Kafka</strong>.</li>
+          <li>Diseño modular con <strong>TypeScript</strong> y <strong>Node.js</strong> para alta disponibilidad y tolerancia a fallos.</li>
         </ul>
-        <p><code>Apache Kafka</code> · <code>Docker Compose</code> · <code>Node.js</code> · <code>Next.js</code> · <code>WebSockets</code></p>
+        <p>
+          <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+          <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js" />
+          <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white" alt="Apache Kafka" />
+          <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+        </p>
       </td>
     </tr>
     <tr>
       <td width="50%" valign="top">
-        <p><a href="https://github.com/LucasTabacchi/BDD_NSQL_2026/tree/main/airports-api"><strong>✈️ Airports API</strong></a></p>
-        <p><strong>API y visor web para explorar 8.108 aeropuertos mediante búsquedas por cercanía y popularidad.</strong></p>
+        <h3><a href="https://github.com/LucasTabacchi/BDD_NSQL_2026/tree/main/airports-api">✈️ Airports API — Geospatial & Cache</a></h3>
+        <p><strong>API y visor web para explorar aeropuertos mediante búsquedas por cercanía y popularidad.</strong></p>
         <ul>
-          <li>Consulta datos de aeropuertos en MongoDB y realiza búsquedas de proximidad con Redis GEO y <code>GEOSEARCH</code>.</li>
-          <li>Ordena resultados por popularidad con Redis ZSET y una caché con TTL de un día.</li>
-          <li>Combina un backend Node/Express con un visor HTML basado en Leaflet y MarkerCluster, orquestado con Docker Compose.</li>
+          <li>Consulta datos de aeropuertos en <strong>MongoDB</strong> y realiza búsquedas de proximidad con <strong>Redis GEO</strong> (<code>GEOSEARCH</code>).</li>
+          <li>Ordena resultados por popularidad con <strong>Redis ZSET</strong> y una estrategia de caché con TTL de un día.</li>
+          <li>Combina un backend <strong>Node.js</strong> / <strong>Express</strong> con un visor HTML interactivo en <strong>Leaflet</strong>, orquestado con <strong>Docker Compose</strong>.</li>
         </ul>
-        <p><code>Node.js</code> · <code>Express</code> · <code>MongoDB</code> · <code>Redis GEO</code> · <code>Leaflet</code> · <code>Docker</code></p>
+        <p>
+          <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js" />
+          <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" alt="Express" />
+          <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
+          <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis" />
+        </p>
       </td>
       <td width="50%" valign="top">
-        <p><a href="https://github.com/LucasTabacchi/Desarrollo-y-Arquitectura-en-aplicaciones-m-viles---2026/tree/main/tp_3/ibank"><strong>🏦 iBank</strong></a></p>
+        <h3><a href="https://github.com/LucasTabacchi/Desarrollo-y-Arquitectura-en-aplicaciones-m-viles---2026/tree/main/tp_3/ibank">🏦 iBank — Mobile Banking Auth</a></h3>
         <p><strong>Flujo de autenticación móvil bancario con validaciones y recuperación de acceso segura.</strong></p>
         <ul>
-          <li>Implementa login con protección contra enumeración de cuentas y registro con reglas de contraseña en tiempo real y confirmación por email.</li>
-          <li>Gestiona restablecimiento de contraseña mediante enlaces profundos y sesiones persistentes con AsyncStorage.</li>
-          <li>Usa formularios tipados con React Hook Form y Zod, y navegación tipada con Expo Router.</li>
+          <li>Implementa login con protección contra enumeración de cuentas y registro con reglas de validación en tiempo real y confirmación por email.</li>
+          <li>Gestiona restablecimiento de contraseña mediante enlaces profundos (<strong>deep links</strong>) y sesiones persistentes con <strong>AsyncStorage</strong>.</li>
+          <li>Usa formularios tipados con <strong>React Hook Form</strong> + <strong>Zod</strong>, y arquitectura de navegación tipada con <strong>Expo Router</strong>.</li>
         </ul>
-        <p><code>React Native</code> · <code>Expo</code> · <code>TypeScript</code> · <code>Supabase Auth</code> · <code>Zod</code> · <code>Expo Router</code></p>
+        <p>
+          <img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React Native" />
+          <img src="https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white" alt="Expo" />
+          <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+          <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" alt="Supabase" />
+        </p>
       </td>
     </tr>
     <tr>
       <td colspan="2" valign="top">
-        <p><a href="https://github.com/LucasTabacchi/Desarrollo-y-Arquitectura-en-aplicaciones-m-viles---2026/tree/main/tp_5"><strong>📶 Network QoS Monitor</strong></a></p>
+        <h3><a href="https://github.com/LucasTabacchi/Desarrollo-y-Arquitectura-en-aplicaciones-m-viles---2026/tree/main/tp_5">📶 Network QoS Monitor — Mobile & Benchmark</a></h3>
         <p><strong>Monitor móvil de calidad de red en tiempo real y mapa personal de cobertura.</strong></p>
         <ul>
-          <li>Mide RTT y jitter mediante sondas TCP, junto con throughput de subida y bajada.</li>
-          <li>Guarda sesiones y muestras con GPS en SQLite, con exportación de datos en CSV y JSON.</li>
-          <li>Integra métricas de señal, RAT y operador con Kotlin TelephonyManager, un backend de benchmark Fastify y pruebas móviles y de integración.</li>
+          <li>Mide <strong>RTT</strong> y <strong>jitter</strong> mediante sondas TCP, junto con throughput de subida y bajada.</li>
+          <li>Guarda sesiones y muestras con GPS en <strong>SQLite</strong>, con exportación de datos en <strong>CSV</strong> y <strong>JSON</strong>.</li>
+          <li>Integra métricas de señal, RAT y operador con <strong>Kotlin TelephonyManager</strong>, un backend de benchmark en <strong>Fastify</strong> y pruebas móviles.</li>
         </ul>
-        <p><code>React Native</code> · <code>TypeScript</code> · <code>Kotlin</code> · <code>SQLite</code> · <code>Fastify</code> · <code>Docker</code></p>
+        <p>
+          <img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React Native" />
+          <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+          <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" alt="Kotlin" />
+          <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite" />
+          <img src="https://img.shields.io/badge/Fastify-202020?style=flat-square&logo=fastify&logoColor=white" alt="Fastify" />
+        </p>
       </td>
     </tr>
   </tbody>
@@ -110,75 +146,53 @@ Me interesa construir soluciones end-to-end con especial atención a la **arquit
 
 ---
 
-## Tecnologías con las que más trabajo
+## 🛠️ Tecnologías con las que más trabajo
 
-### Lenguajes & Web
+### 🌐 Lenguajes & Web
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=ts,js,python,html,css,react,nextjs,nodejs,express" alt="TypeScript, JavaScript, Python, HTML5, CSS3, React, Next.js, Node.js y Express" />
 </p>
 
-### Backend & APIs
+### ⚙️ Backend & APIs
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=fastapi,django,strapi" alt="FastAPI, Django y Strapi" />
-  <img src="https://img.shields.io/badge/Fastify-202020?style=flat-square&logo=fastify&logoColor=white" alt="Fastify" />
-  <img src="https://img.shields.io/badge/Django_REST_Framework-092E20?style=flat-square&logo=django&logoColor=white" alt="Django REST Framework" />
-  <img src="https://img.shields.io/badge/REST-005571?style=flat-square" alt="REST" />
-  <img src="https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" alt="GraphQL" />
+  <img src="https://skillicons.dev/icons?i=fastapi,django,graphql,postman" alt="FastAPI, Django, GraphQL y Postman" />
 </p>
 
-### Mobile
+### 📱 Mobile
 
 <p align="center">
-  <img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React Native" />
-  <img src="https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white" alt="Expo" />
-  <img src="https://img.shields.io/badge/Expo_Router-000020?style=flat-square&logo=expo&logoColor=white" alt="Expo Router" />
+  <img src="https://skillicons.dev/icons?i=react,kotlin,androidstudio" alt="React Native, Kotlin y Android Studio" />
 </p>
 
-### Datos & Cloud
+### ☁️ Datos & Cloud
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,sqlite,supabase,prisma,aws" alt="PostgreSQL, MongoDB, Redis, SQLite, Supabase, Prisma y AWS" />
-  <img src="https://img.shields.io/badge/AWS_S3-569A31?style=flat-square&logo=amazons3&logoColor=white" alt="AWS S3" />
 </p>
 
-### Infraestructura & Eventos
+### 📦 Infraestructura & Eventos
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=docker,kafka,rabbitmq,githubactions" alt="Docker, Apache Kafka, RabbitMQ y GitHub Actions" />
-  <img src="https://img.shields.io/badge/Docker_Compose-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker Compose" />
-  <img src="https://img.shields.io/badge/Celery-37814A?style=flat-square&logo=celery&logoColor=white" alt="Celery" />
+  <img src="https://skillicons.dev/icons?i=docker,kafka,rabbitmq,githubactions,linux,bash" alt="Docker, Apache Kafka, RabbitMQ, GitHub Actions, Linux y Bash" />
 </p>
 
-### Calidad, UI & DX
+### 🧪 Calidad, UI & DX
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,tailwind,vite,jest,vitest,pytest,eslint,prettier" alt="Git, Tailwind CSS, Vite, Jest, Vitest, pytest, ESLint y Prettier" />
-  <img src="https://img.shields.io/badge/Husky-000000?style=flat-square&logo=husky&logoColor=white" alt="Husky" />
-  <img src="https://img.shields.io/badge/lint--staged-4B32C3?style=flat-square" alt="lint-staged" />
-  <img src="https://img.shields.io/badge/Commitlint-000000?style=flat-square&logo=commitlint&logoColor=white" alt="Commitlint" />
-  <img src="https://img.shields.io/badge/Swagger%20%2F%20OpenAPI-85EA2D?style=flat-square&logo=swagger&logoColor=black" alt="Swagger y OpenAPI" />
-  <img src="https://img.shields.io/badge/Zustand-443E38?style=flat-square" alt="Zustand" />
-  <img src="https://img.shields.io/badge/React_Query-FF4154?style=flat-square&logo=reactquery&logoColor=white" alt="React Query" />
-  <img src="https://img.shields.io/badge/Zod-3E67B1?style=flat-square" alt="Zod" />
-  <img src="https://img.shields.io/badge/React_Hook_Form-EC5990?style=flat-square&logo=reacthookform&logoColor=white" alt="React Hook Form" />
-  <img src="https://img.shields.io/badge/Radix_UI-161618?style=flat-square&logo=radixui&logoColor=white" alt="Radix UI" />
-  <img src="https://img.shields.io/badge/Leaflet-199900?style=flat-square&logo=leaflet&logoColor=white" alt="Leaflet" />
-  <img src="https://img.shields.io/badge/Cloudinary-3448C5?style=flat-square&logo=cloudinary&logoColor=white" alt="Cloudinary" />
+  <img src="https://skillicons.dev/icons?i=git,tailwind,vite,jest,vitest,figma" alt="Git, Tailwind CSS, Vite, Jest, Vitest y Figma" />
 </p>
 
-### Datos e IA
+### 🤖 Datos e IA
 
 <p align="center">
-  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" />
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="scikit-learn" />
+  <img src="https://skillicons.dev/icons?i=py,sklearn,anaconda" alt="Python, Scikit-Learn y Anaconda" />
 </p>
 
 ---
 
-## En lo que estoy enfocado ahora
+## 🎯 En lo que estoy enfocado ahora
 
 - construir productos más sólidos end-to-end
 - mejorar arquitectura y mantenibilidad
@@ -186,12 +200,13 @@ Me interesa construir soluciones end-to-end con especial atención a la **arquit
 
 ---
 
-## Métricas de GitHub & Actividad
+## 📊 Métricas de GitHub & Actividad
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=LucasTabacchi&amp;theme=github_dark" alt="Métricas de GitHub de Lucas Tabacchi" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=LucasTabacchi&amp;layout=compact&amp;theme=github_dark&amp;custom_title=My%20Programming%20Languages&amp;langs_count=6" alt="Lenguajes de programación de Lucas Tabacchi" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LucasTabacchi&amp;theme=github_dark" alt="Gráfico de contribuciones de Lucas Tabacchi durante el último año" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LucasTabacchi&amp;theme=github_dark&amp;name=Lucas%20Tabacchi" alt="Gráfico de contribuciones de Lucas Tabacchi durante el último año" />
 </p>
