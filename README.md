@@ -206,9 +206,9 @@ Me interesa construir soluciones end-to-end con especial atención a la **arquit
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=LucasTabacchi&amp;theme=github_dark" height="180" alt="Métricas de GitHub de Lucas Tabacchi" />
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=LucasTabacchi&amp;layout=compact&amp;theme=github_dark&amp;custom_title=My%20Programming%20Languages&amp;langs_count=8&amp;card_width=320&amp;border_color=2e343b&amp;border_radius=5" height="180" alt="Lenguajes de programación de Lucas Tabacchi" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=LucasTabacchi&amp;layout=compact&amp;theme=github_dark&amp;custom_title=My%20Programming%20Languages&amp;langs_count=8&amp;card_width=323&amp;border_color=2e343b&amp;border_radius=5" height="180" alt="Lenguajes de programación de Lucas Tabacchi" />
 </p>
 
 <p align="center">
-  <img src="assets/profile-activity.svg" width="696" alt="Gráfico de contribuciones de Lucas Tabacchi durante el último año" />
+  <img src="assets/profile-activity.svg" width="616" alt="Gráfico de contribuciones de Lucas Tabacchi durante el último año" />
 </p>
