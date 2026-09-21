@@ -84,6 +84,38 @@ Me interesa construir soluciones end-to-end con especial atención a la **arquit
 ---
 
 ## Tecnologías con las que más trabajo
+### ✈️ [Airports API](https://github.com/LucasTabacchi/BDD_NSQL_2026/tree/main/airports-api)
+**API y visor web para explorar 8.108 aeropuertos mediante búsquedas por cercanía y popularidad.**
+
+- Consulta datos de aeropuertos en MongoDB y realiza búsquedas de proximidad con Redis GEO y `GEOSEARCH`.
+- Ordena resultados por popularidad con Redis ZSET y una caché con TTL de un día.
+- Combina un backend Node/Express con un visor HTML basado en Leaflet y MarkerCluster, orquestado con Docker Compose.
+
+`Node.js` · `Express` · `MongoDB` · `Redis GEO` · `Leaflet` · `Docker`
+
+---
+
+### 🏦 [iBank](https://github.com/LucasTabacchi/Desarrollo-y-Arquitectura-en-aplicaciones-m-viles---2026/tree/main/tp_3/ibank)
+**Flujo de autenticación móvil bancario con validaciones y recuperación de acceso segura.**
+
+- Implementa login con protección contra enumeración de cuentas y registro con reglas de contraseña en tiempo real y confirmación por email.
+- Gestiona restablecimiento de contraseña mediante enlaces profundos y sesiones persistentes con AsyncStorage.
+- Usa formularios tipados con React Hook Form y Zod, y navegación tipada con Expo Router.
+
+`React Native` · `Expo` · `TypeScript` · `Supabase Auth` · `Zod` · `Expo Router`
+
+---
+
+### 📶 [Network QoS Monitor](https://github.com/LucasTabacchi/Desarrollo-y-Arquitectura-en-aplicaciones-m-viles---2026/tree/main/tp_5)
+**Monitor móvil de calidad de red en tiempo real y mapa personal de cobertura.**
+
+- Mide RTT y jitter mediante sondas TCP, junto con throughput de subida y bajada.
+- Guarda sesiones y muestras con GPS en SQLite, con exportación de datos en CSV y JSON.
+- Integra métricas de señal, RAT y operador con Kotlin TelephonyManager, un backend de benchmark Fastify y pruebas móviles y de integración.
+
+`React Native` · `TypeScript` · `Kotlin` · `SQLite` · `Fastify` · `Docker`
+
+---
 
 <p>
   <img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,python,django,nodejs,postgres,docker,redis,git,github" />
