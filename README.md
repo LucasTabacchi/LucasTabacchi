@@ -21,7 +21,7 @@ Soy **Systems Analyst** y me enfoco en transformar ideas en productos digitales 
 Me interesa construir soluciones end-to-end con especial atención a la **arquitectura**, la **automatización** y una base técnica mantenible.
 
 - ⚙️ **Backend e infraestructura:** APIs, bases de datos, Docker, integraciones y automatizaciones.
-- 🖥️ **Web y producto:** experiencias con Next.js, React y TypeScript.
+- 📱 **Web & Mobile:** Desarrollo de experiencias multiplataforma con **React Native (Expo) + TypeScript**, conectando mapas, telemetría en tiempo real y operaciones offline con **Supabase, Node.js y arquitecturas orientadas a eventos**.
 - 🧩 **En exploración constante:** developer experience, sistemas distribuidos y herramientas que simplifican el trabajo de desarrollo.
 
 ---
