@@ -7,8 +7,10 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/LucasTabacchi"><img src="https://img.shields.io/badge/GitHub-Perfil-181717?style=flat-square&logo=github" /></a>
-  <a href="https://www.linkedin.com/in/lucas-tabacchi-ab74551a5/"><img src="https://img.shields.io/badge/LinkedIn-Perfil-0A66C2?style=flat-square&logo=linkedin" /></a>
+  <a href="https://github.com/LucasTabacchi"><img src="https://img.shields.io/badge/GitHub-Perfil-181717?style=flat-square&logo=github" alt="GitHub" /></a>
+  <a href="https://www.linkedin.com/in/lucas-tabacchi-ab74551a5/"><img src="https://img.shields.io/badge/LinkedIn-Perfil-0A66C2?style=flat-square&logo=linkedin" alt="LinkedIn" /></a>
+  <a href="https://lucastabacchi.vercel.app"><img src="https://img.shields.io/badge/Portfolio-Web-000000?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+  <a href="mailto:lucastabacchi31@gmail.com"><img src="https://img.shields.io/badge/Email-lucastabacchi31%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
 ## 👨‍💻 Sobre mí
