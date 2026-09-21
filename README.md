@@ -203,10 +203,10 @@ Me interesa construir soluciones end-to-end con especial atención a la **arquit
 ## 📊 Métricas de GitHub & Actividad
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=LucasTabacchi&amp;theme=github_dark" alt="Métricas de GitHub de Lucas Tabacchi" />
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=LucasTabacchi&amp;layout=compact&amp;theme=github_dark&amp;custom_title=My%20Programming%20Languages&amp;langs_count=6" alt="Lenguajes de programación de Lucas Tabacchi" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=LucasTabacchi&amp;theme=github_dark" height="195" alt="Métricas de GitHub de Lucas Tabacchi" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=LucasTabacchi&amp;layout=compact&amp;theme=github_dark&amp;custom_title=My%20Programming%20Languages&amp;langs_count=8&amp;card_width=340" height="195" alt="Lenguajes de programación de Lucas Tabacchi" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LucasTabacchi&amp;theme=github_dark&amp;name=Lucas%20Tabacchi" alt="Gráfico de contribuciones de Lucas Tabacchi durante el último año" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LucasTabacchi&amp;theme=github_dark&amp;name=Lucas%20Tabacchi" width="690" alt="Gráfico de contribuciones de Lucas Tabacchi durante el último año" />
 </p>
