@@ -28,20 +28,58 @@ Me interesa construir soluciones end-to-end con especial atención a la **arquit
 
 ## Proyectos que muestran mi perfil
 
-### [AutoDocker](https://github.com/LucasTabacchi/autodocker)
-Una herramienta para developers que analiza proyectos y ayuda a dockerizarlos más rápido, generando artefactos editables y validables.
+### 🤖 [AutoDocker](https://github.com/LucasTabacchi/autodocker)
+**Dockerización asistida para convertir repositorios en entornos ejecutables y editables.**
 
-### [ProjectFlow](https://github.com/LucasTabacchi/project-flow)
-Una plataforma de gestión de proyectos donde combiné producto, colaboración, automatizaciones y reporting.
+- Analiza proyectos ZIP o Git y detecta stacks Node, Python, PHP, Java, Go y Ruby, incluso monorepos.
+- Genera `Dockerfile`, `.dockerignore`, `docker-compose`, documentación y bootstrap de CI que se pueden editar.
+- Valida builds, permite previsualizar resultados y abrir pull requests desde el flujo de trabajo.
 
-### [Amargo y Dulce](https://github.com/LucasTabacchi/frontend-ecommerce-amargo-y-dulce)
-Un ecommerce orientado a una experiencia de compra completa, con catálogo, checkout, Mercado Pago, promociones y facturación.
+`Python` · `Django` · `DRF` · `Celery` · `Redis` · `PostgreSQL` · `Docker` · `GitHub Actions`
 
-### [banking-events-kafka-nextjs](https://github.com/LucasTabacchi/banking-events-kafka-nextjs)
-Un proyecto para trabajar mensajería, eventos y arquitectura distribuida con Kafka.
+---
 
-### [IS2_TPFI](https://github.com/LucasTabacchi/IS2_TPFI)
-Un proyecto donde apliqué patrones de diseño clásicos con una implementación práctica en Python.
+### 📋 [ProjectFlow](https://github.com/LucasTabacchi/project-flow)
+**Gestión colaborativa de proyectos con visibilidad sobre el trabajo, sus dependencias y resultados.**
+
+- Organiza equipos con tableros, listas y tarjetas drag-and-drop, fechas límite, bloqueos y actividad.
+- Incluye automatizaciones, dependencias, campos personalizados, recurrencias y reportes de tiempo.
+- Centraliza invitaciones y notificaciones por email, además de exportaciones CSV y PDF.
+
+`Next.js` · `React` · `TypeScript` · `Prisma` · `PostgreSQL` · `Tailwind CSS` · `Zustand` · `Redis`
+
+---
+
+### 🍫 [Amargo y Dulce](https://github.com/LucasTabacchi/frontend-ecommerce-amargo-y-dulce)
+**E-commerce de chocolates diseñado para cubrir el recorrido completo de compra.**
+
+- Ofrece catálogo, carrito, checkout, perfil, direcciones, pedidos, promociones, cupones y facturas.
+- Integra Mercado Pago y procesa actualizaciones de estado de pedidos mediante webhooks.
+- Consume Strapi mediante REST y GraphQL, y utiliza Brevo para emails transaccionales.
+
+`Next.js` · `React` · `TypeScript` · `Strapi` · `GraphQL` · `Mercado Pago` · `Tailwind CSS` · `Zustand`
+
+---
+
+### 📨 [banking-events-kafka-nextjs](https://github.com/LucasTabacchi/banking-events-kafka-nextjs)
+**Exploración de flujos basados en eventos con servicios Node, Kafka y una interfaz web.**
+
+- Levanta Kafka y Kafka UI mediante Docker Compose para trabajar con brokers y topics configurables por entorno.
+- Separa las responsabilidades en servicios `api`, `orchestrator` y `gateway` construidos con Node.js.
+- Conecta una aplicación Next.js mediante URLs públicas de API y WebSockets.
+
+`Apache Kafka` · `Docker Compose` · `Node.js` · `Next.js` · `WebSockets`
+
+---
+
+### 🧩 [IS2_TPFI](https://github.com/LucasTabacchi/IS2_TPFI)
+**Servidor TCP en Python para aplicar patrones de diseño sobre un caso funcional y testeable.**
+
+- Implementa un servidor con los patrones Proxy, Singleton y Observer, junto con clientes de suscripción.
+- Expone operaciones `get`, `set` y `list` con persistencia intercambiable entre mock JSON y AWS DynamoDB.
+- Define framing JSON de 4 bytes y cobertura automatizada con pytest.
+
+`Python` · `TCP Sockets` · `Design Patterns` · `AWS DynamoDB` · `pytest` · `JSON`
 
 ---
 
