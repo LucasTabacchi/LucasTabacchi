@@ -1,39 +1,29 @@
-# Detailed profile projects
+# Detailed profile projects and stack
 
 ## Objective
-Replace the brief project descriptions in the GitHub-profile README with detailed, evidence-based project cards.
-
-## Problem
-The existing project section names relevant work but does not show concrete scope, capabilities, or technology choices.
+Showcase evidence-based projects and a categorized technology stack in the GitHub-profile README.
 
 ## Scope
-- Update `README.md` only for the public-facing project showcase.
-- Preserve the five existing projects and their repository links.
-- Add three user-specified project paths with evidence-based descriptions.
-- Base all claims on each project's public README.
+- Preserve the eight detailed project cards.
+- Replace the flat technology icon list with a categorized stack based on the user's public repositories.
 
 ## Constraints
-- Spanish content, with concise, readable cards inspired by the provided two-column example.
-- Do not add unverified claims.
-- TDD: disabled/not applicable — documentation-only change; check with Markdown review and `git diff --check`.
-- Delivery strategy: ask-on-risk; forecast: ~80 authored changed lines.
+- Spanish category headings while preserving the README's current visual style.
+- Show direct-use technologies, not every transitive dependency.
+- Exclude forks, fixtures and unsupported claims.
+- TDD: disabled/not applicable; Markdown inspection and `git diff --check`.
+- Delivery strategy: ask-on-risk; forecast: ~150 authored changed lines.
 
 ## Tasks
-- [x] P1 — Replace the short project entries with five detailed, evidence-backed cards in `README.md`.
+- [x] P1 — Expand the original five project entries. Evidence: `3ad8f98`.
+- [x] P2 — Add Airports API, iBank and Network QoS Monitor cards. Evidence: `db50d60`.
+- [x] P3 — Replace the flat technology list with categorized, evidence-based stack groups. Evidence: `feat(readme): categorize technology stack`.
   - Route: delegated direct.
-  - Trigger evidence: preparation required review of five repository READMEs; content change is non-trivial.
-  - Acceptance: each card has value proposition, 2–3 verified highlights, and technology tags; links remain correct.
-  - Checks: Markdown structure inspection; `git diff --check`.
-
-- [x] P2 — Add detailed cards for Airports API, iBank and Network QoS Monitor in `README.md`.
-  - Route: delegated direct.
-  - Trigger evidence: preparation required research across three external project READMEs and updates to the feature task document plus README.
-  - Acceptance: each card has a direct requested link, verified value proposition, 2–3 highlights and technology tags.
+  - Trigger evidence: 24-repository inventory plus updates to README and feature task document.
+  - Acceptance: visible categories separate languages/web, backend/APIs, mobile, data/cloud, infrastructure/events and quality/UI; all claims are supported by public repositories.
   - Checks: Markdown structure inspection; `git diff --check`.
 
 ## Progress
-- Research complete: verified descriptions gathered from public READMEs for AutoDocker, ProjectFlow, Amargo y Dulce, Kafka banking events, and IS2_TPFI.
-- P1 complete: expanded the five linked project entries with verified value propositions, highlights and technology tags. Markdown inspection and `git diff --check` passed. Evidence: current work-unit commit `feat(readme): expand project showcase`.
-- New scope authorized: add Airports API, iBank and Network QoS Monitor after research verification.
-- P2 complete: added evidence-based cards for Airports API, iBank and Network QoS Monitor with direct requested links, verified highlights and technology tags. Markdown inspection and `git diff --check` passed. Evidence: current work-unit commit `feat(readme): add architecture project cards`.
+- P1/P2 complete.
+- P3 complete: categorized direct-use technologies across languages/web, backend/APIs, mobile, data/cloud, infrastructure/events, quality/UI/DX and data/IA. Markdown inspection and `git diff --check` passed. Evidence: `feat(readme): categorize technology stack`.
 - Next: none.

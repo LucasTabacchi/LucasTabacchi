@@ -117,8 +117,70 @@ Me interesa construir soluciones end-to-end con especial atención a la **arquit
 
 ---
 
-<p>
-  <img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,python,django,nodejs,postgres,docker,redis,git,github" />
+## Tecnologías con las que más trabajo
+
+### Lenguajes & Web
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ts,js,python,html,css,react,nextjs,nodejs,express" alt="TypeScript, JavaScript, Python, HTML5, CSS3, React, Next.js, Node.js y Express" />
+</p>
+
+### Backend & APIs
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=fastapi,django,strapi" alt="FastAPI, Django y Strapi" />
+  <img src="https://img.shields.io/badge/Fastify-202020?style=flat-square&logo=fastify&logoColor=white" alt="Fastify" />
+  <img src="https://img.shields.io/badge/Django_REST_Framework-092E20?style=flat-square&logo=django&logoColor=white" alt="Django REST Framework" />
+  <img src="https://img.shields.io/badge/REST-005571?style=flat-square" alt="REST" />
+  <img src="https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" alt="GraphQL" />
+</p>
+
+### Mobile
+
+<p align="center">
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React Native" />
+  <img src="https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white" alt="Expo" />
+  <img src="https://img.shields.io/badge/Expo_Router-000020?style=flat-square&logo=expo&logoColor=white" alt="Expo Router" />
+</p>
+
+### Datos & Cloud
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,sqlite,supabase,prisma,aws" alt="PostgreSQL, MongoDB, Redis, SQLite, Supabase, Prisma y AWS" />
+  <img src="https://img.shields.io/badge/AWS_S3-569A31?style=flat-square&logo=amazons3&logoColor=white" alt="AWS S3" />
+</p>
+
+### Infraestructura & Eventos
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=docker,kafka,rabbitmq,githubactions" alt="Docker, Apache Kafka, RabbitMQ y GitHub Actions" />
+  <img src="https://img.shields.io/badge/Docker_Compose-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker Compose" />
+  <img src="https://img.shields.io/badge/Celery-37814A?style=flat-square&logo=celery&logoColor=white" alt="Celery" />
+</p>
+
+### Calidad, UI & DX
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,tailwind,vite,jest,vitest,pytest,eslint,prettier" alt="Git, Tailwind CSS, Vite, Jest, Vitest, pytest, ESLint y Prettier" />
+  <img src="https://img.shields.io/badge/Husky-000000?style=flat-square&logo=husky&logoColor=white" alt="Husky" />
+  <img src="https://img.shields.io/badge/lint--staged-4B32C3?style=flat-square" alt="lint-staged" />
+  <img src="https://img.shields.io/badge/Commitlint-000000?style=flat-square&logo=commitlint&logoColor=white" alt="Commitlint" />
+  <img src="https://img.shields.io/badge/Swagger%20%2F%20OpenAPI-85EA2D?style=flat-square&logo=swagger&logoColor=black" alt="Swagger y OpenAPI" />
+  <img src="https://img.shields.io/badge/Zustand-443E38?style=flat-square" alt="Zustand" />
+  <img src="https://img.shields.io/badge/React_Query-FF4154?style=flat-square&logo=reactquery&logoColor=white" alt="React Query" />
+  <img src="https://img.shields.io/badge/Zod-3E67B1?style=flat-square" alt="Zod" />
+  <img src="https://img.shields.io/badge/React_Hook_Form-EC5990?style=flat-square&logo=reacthookform&logoColor=white" alt="React Hook Form" />
+  <img src="https://img.shields.io/badge/Radix_UI-161618?style=flat-square&logo=radixui&logoColor=white" alt="Radix UI" />
+  <img src="https://img.shields.io/badge/Leaflet-199900?style=flat-square&logo=leaflet&logoColor=white" alt="Leaflet" />
+  <img src="https://img.shields.io/badge/Cloudinary-3448C5?style=flat-square&logo=cloudinary&logoColor=white" alt="Cloudinary" />
+</p>
+
+### Datos e IA
+
+<p align="center">
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="scikit-learn" />
 </p>
 
 ---
