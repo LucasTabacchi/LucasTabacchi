@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/hero-systems-analyst.svg" width="100%" alt="Lucas Tabacchi — Systems Analyst" />
+  <img src="assets/hero-terminal.svg" width="100%" alt="Lucas Tabacchi — Systems Analyst" />
 </p>
 
 <p align="center">
