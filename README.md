@@ -15,7 +15,7 @@
 
 ## 👨‍💻 Sobre mí
 
-Soy **Analista en Sistemas de Información** (UADER) y actualmente cursando el 4to año de la Licenciatura en Sistemas de Información.
+Soy **Analista en Sistemas de Información** (UADER) y actualmente estoy cursando el 4to año de la Licenciatura en Sistemas de Información.
 
 Me interesa construir soluciones end-to-end con especial atención a la **arquitectura** y una base técnica mantenible.
 
